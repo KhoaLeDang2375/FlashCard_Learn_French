@@ -1,0 +1,1 @@
+ windown.after(3000,func=Flip_the_cards)
